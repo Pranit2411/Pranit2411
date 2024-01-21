@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm Pranit Menkar, a recent Master of Science in C
 - Achieved a 50% reduction in manufacturing errors, enhancing overall production efficiency.
 - Integrated 3D visualization capabilities for users to interact with virtual representations of transformers.
 
-### Turtleback Zoo Management System Project
+### [Turtleback Zoo Management System Project](https://github.com/tabrezdn1/cs631-project)
 
 - Designed a robust database schema and executed SQL commands for streamlined data administration.
 - Created an admin dashboard providing real-time insights into animal exhibits, employee operations, and attraction statuses.
@@ -50,6 +50,14 @@ Welcome to my GitHub profile! I'm Pranit Menkar, a recent Master of Science in C
   - LetsGrowMore, Virtual Internship
   - Jul 2022 - Aug 2022
 
+- **Web Development Intern**
+  - LetsGrowMore, Virtual Internship
+  - Jul 2022 - Aug 2022
+
+- **GTT Internship**
+  - Virtual Internship
+  - Jan 2022 - Feb 2022
+
 ## Leadership and Achievements 🏆
 
 - Led a team to victory in the Smart India Hackathon, achieving first position at the college level.
@@ -59,6 +67,6 @@ Welcome to my GitHub profile! I'm Pranit Menkar, a recent Master of Science in C
 Feel free to explore my repositories and reach out for collaborations or discussions. Let's innovate together! 🚀
 
 Connect with me:
-- LinkedIn: [Pranit Menkar](#)
+- LinkedIn: [Pranit Menkar](https://www.linkedin.com/in/pranit-menkar-45647a139/)
 - Email: pranitmenkar24@gmail.com
 - Location: Newark, NJ 📍

@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Pranit Menkar, a recent Master of Science in C
 
 - **Master of Science (MS) in Computer Science**
   - NJIT - Ying Wu College of Computing, Newark, NJ
-  - CGPA: 3.8/4.0
+  - CGPA: 3.94/4.0
 
 - **Bachelor of Engineering (BE) in Information Technology**
   - K. K. Wagh Institute of Engineering Education and Research, Nashik, IN
@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm Pranit Menkar, a recent Master of Science in C
 
 ## Key Skills 🚀
 
-- Languages: Java, Python, SQL
+- Languages: Java, Python, SQL, C, C++
 - Web Technologies: HTML, CSS, Bootstrap, JavaScript, PHP
 - Version Control: Git
-- Cloud Platforms: Google Cloud
-- Machine Learning: Algorithms, TensorFlow
+- Cloud Platforms: Google Cloud, Azure
+- Machine Learning: Algorithms, TensorFlow, R, Pytorch
 - Frameworks: Flutter
 - 3D Modeling: Blender
 
